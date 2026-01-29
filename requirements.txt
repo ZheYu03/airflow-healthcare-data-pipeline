@@ -1,0 +1,24 @@
+# Google Sheets API
+gspread>=6.0.0
+google-auth>=2.0.0
+google-auth-oauthlib>=1.0.0
+
+# Google Drive API (for change detection)
+google-api-python-client>=2.0.0
+
+# Google Maps scraping
+playwright>=1.40.0
+
+# Supabase client
+supabase>=2.0.0
+
+# PDF parsing for insurance brochures
+pdfplumber>=0.10.0
+PyPDF2>=3.0.0
+
+# OpenAI for LLM-powered insurance extraction
+openai>=1.0.0
+
+# Additional utilities
+python-dotenv>=1.0.0
+

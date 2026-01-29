@@ -1,0 +1,14 @@
+2025-12-12 23:55:36,685 WARNING - Could not import pandas. Holidays will not be considered.
+2025-12-12 23:55:36,687 INFO - Loaded executor: SequentialExecutor
+2025-12-12 23:56:04,543 WARNING - Could not import pandas. Holidays will not be considered.
+2025-12-12 23:56:04,545 INFO - Loaded executor: SequentialExecutor
+2025-12-12 23:58:10,670 WARNING - Could not import pandas. Holidays will not be considered.
+2025-12-12 23:58:10,671 INFO - Loaded executor: SequentialExecutor
+2025-12-12 23:58:24,830 WARNING - Could not import pandas. Holidays will not be considered.
+2025-12-12 23:58:24,832 INFO - Loaded executor: SequentialExecutor
+2025-12-12 23:58:47,904 WARNING - Could not import pandas. Holidays will not be considered.
+2025-12-12 23:58:47,906 INFO - Loaded executor: SequentialExecutor
+2025-12-12 23:59:47,631 WARNING - Could not import pandas. Holidays will not be considered.
+2025-12-12 23:59:47,633 INFO - Loaded executor: SequentialExecutor
+2025-12-13 00:00:14,898 WARNING - Could not import pandas. Holidays will not be considered.
+2025-12-13 00:00:14,900 INFO - Loaded executor: SequentialExecutor
