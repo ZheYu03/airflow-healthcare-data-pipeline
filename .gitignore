@@ -1,0 +1,50 @@
+# Python virtual environments - EXCLUDE ALL CONTENTS
+.venv/
+.venv/**
+venv/
+venv/**
+env/
+ENV/
+*.pyc
+__pycache__/
+
+# Environment variables (CRITICAL: contains database credentials)
+.env
+.env.*
+!.env.template
+
+# Airflow specific
+airflow_home/airflow.db
+airflow_home/*.log
+airflow_home/*.log.*
+airflow_home/logs/**/*.log
+airflow_home/logs/**/*.log.*
+airflow_home/*.pid
+airflow_home/*.err
+airflow_home/*.out
+airflow_home/logs/
+airflow_home/standalone_admin_password.txt
+
+# Google Cloud credentials (service account keys)
+airflow_home/credentials/
+*.json
+!airflow_home/credentials/.gitkeep
+
+# Archives
+*.tar.gz
+*.zip
+
+# IDE
+.vscode/
+.idea/
+.cursor/
+*.swp
+*.swo
+*~
+
+# MacOS
+.DS_Store
+
+# Test files
+test_*.py
+*_test.py

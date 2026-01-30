@@ -1,2 +1,0 @@
-[[34m2025-12-12T23:58:47.904+0800[0m] {[34mworkday.py:[0m41} [33mWARNING[0m - [33mCould not import pandas. Holidays will not be considered.[0m
-[[34m2025-12-12T23:58:47.906+0800[0m] {[34mexecutor_loader.py:[0m254} INFO[0m - Loaded executor: SequentialExecutor[0m
